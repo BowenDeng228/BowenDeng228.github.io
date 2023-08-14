@@ -74,7 +74,7 @@ h1 {
     height: 100%;
 }
 
-.navbar_btn {
+.navbar__btn {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -227,7 +227,7 @@ h1 {
  }
 
 .main__content h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     background-size: 100%;
