@@ -64,6 +64,14 @@ h1 {
     height: 80px;
 }
 
+#bowen2 {
+    color: rgb(111, 111, 111);
+}
+
+#bowen {
+    color: rgb(211, 201, 111);
+}
+
 .navbar__links {
     color:#fff;
     display: flex;
